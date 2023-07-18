@@ -2,9 +2,9 @@
 
 Allow me to reintroduce myself my name is Sam
 
-I'm a freelance citizen data scientist and continuous data science learner.
+I'm a freelance data professional and continuous learner of all things data science and development.
 
-- 🔭 I’m currently working on some interesting business intelligence projects to help SME health and wellness businesses use data to make better and more profitable decisions.
+- 🔭 I’m currently working on some interesting business intelligence projects to help SME health and wellness businesses use data to make better and more profitable decisions. 
 
 - 👯 I’m looking to collaborate with people with good energy on interesting and impactful projects. If you run a brick and mortar health and wellness business or are in the personal coaching industry and are looking for ways to optimise what you do then I'd be open to having a conversation about how we can collaborate.   
 
